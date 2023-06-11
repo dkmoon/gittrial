@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-	std::cout << "Hello World MJU SE";
+	std::cout << "Bye MJU SE";
 }
 
 // test
